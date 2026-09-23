@@ -23,3 +23,9 @@ This repository contains research and submisssion materials for the following co
 │   ├── dataset/        # sources
 │   ├── APPENDICES/     # Writing iterations
 └── README.md           # Repository documentation
+
+---
+## Meet the team
+1. Rizqy Aqillah Y.
+2. Illona Anindya
+3. Zulma Nayla I.
